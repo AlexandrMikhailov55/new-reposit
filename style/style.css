@@ -1,0 +1,12 @@
+h1 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.hidding {
+    color: red;
+}
+
+#hidding {
+    color: blue;
+}
